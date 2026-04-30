@@ -42,9 +42,10 @@ Includes configurations, notes, commands, and project decisions documented for l
  
 | # | Topic | Doc |
 |---|-------|-----|
-| 01 | Installation | [docs/01-installation.md](docs/01-installation.md) |
-| 02 | Network Configuration | [docs/02-network.md](docs/02-network.md) |
-| 03 | Users, Groups & Repos | [docs/03-users-groups.md](docs/03-users-groups.md) |
+| 01 | Installation | [docs/01-Installation (Alma-Linux)](docs/'01-Installation\/ \(Alma-Linux\).md') |
+| 01 | Installation | [docs/01-Installation (Windows)](docs/'01-Installation (Windows.md') |
+| 02 | Network Configuration | [docs/02-network.md](docs/02-Network.md) |
+| 03 | Users, Groups & Repos | [docs/03-users-groups.md](docs/03-Users-groups.md) |
 | 04 | Filesystems & LVM | [docs/04-storage.md](docs/04-storage.md) |
 | 05 | SystemD | [docs/05-systemd.md](docs/05-systemd.md) |
 | 06 | SSH | [docs/06-ssh.md](docs/06-ssh.md) |
