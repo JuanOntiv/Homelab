@@ -42,8 +42,8 @@ Includes configurations, notes, commands, and project decisions documented for l
  
 | # | Topic | Doc |
 |---|-------|-----|
-| 01 | Installation | [docs/01-Installation (Alma-Linux)](docs/'01-Installation\/ \(Alma-Linux\).md') |
-| 01 | Installation | [docs/01-Installation (Windows)](docs/'01-Installation (Windows).md') |
+| 01 | Installation | [docs/01-Installation (Alma-Linux)](docs/'01-Installation-Alma-Linux.md') |
+| 01 | Installation | [docs/01-Installation (Windows)](docs/'01-Installation-Windows.md) |
 | 02 | Network Configuration | [docs/02-network.md](docs/02-Network.md) |
 | 03 | Users, Groups & Repos | [docs/03-users-groups.md](docs/03-Users-groups.md) |
 | 04 | Filesystems & LVM | [docs/04-storage.md](docs/04-storage.md) |
